@@ -25,4 +25,5 @@ Java实现的五子棋游戏基本功能，人机对战中包含Alpha-Beta剪枝
 
 
 ![result](https://user-images.githubusercontent.com/51311844/133026670-00a69807-0706-443a-bad6-74dd1083d4c8.png)
+![image](https://user-images.githubusercontent.com/51311844/133027491-f2def21e-7134-4f09-9c90-ae13cae7eae1.png)
 
